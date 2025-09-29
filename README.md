@@ -41,3 +41,5 @@ Scikit-learn (optional, for analysis)
 
 Practical experience in data cleaning, EDA, and visualization
 Understanding patterns in real-world datasets
+
+Linkedin link :- https://www.linkedin.com/posts/aishwarya-rnair_datascience-machinelearning-eda-activity-7378497452313825281-iK2r?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFWO_U4ByDL-RdPPYQpCAQx5Mkiwopcllgk
